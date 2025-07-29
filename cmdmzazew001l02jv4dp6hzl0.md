@@ -1,5 +1,5 @@
 ---
-title: "Day 3 Task : VPC Explained :-"
+title: "(Day 3) Task : VPC Explained :-"
 datePublished: Mon Jul 28 2025 10:42:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmdmzazew001l02jv4dp6hzl0
 slug: day-3-task-vpc-explained
