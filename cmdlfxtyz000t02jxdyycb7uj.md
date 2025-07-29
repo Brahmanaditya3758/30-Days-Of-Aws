@@ -1,5 +1,5 @@
 ---
-title: "(Day 2) Task : AWS IAM Deep Dive – Roles, Policies, Users, Groups + IAM Project :-"
+title: "(Day 02) Task : AWS IAM Deep Dive – Roles, Policies, Users, Groups + IAM Project :-"
 datePublished: Sun Jul 27 2025 08:52:22 GMT+0000 (Coordinated Universal Time)
 cuid: cmdlfxtyz000t02jxdyycb7uj
 slug: day-2-task-aws-iam-deep-dive-roles-policies-users-groups-iam-project
